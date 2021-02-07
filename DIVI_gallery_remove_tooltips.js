@@ -1,3 +1,5 @@
+// remove Tooltips from Divi Library
+
 <script>
 jQuery(document).ready(function($){
         $( ".et_pb_gallery_image a" )
